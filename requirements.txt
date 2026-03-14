@@ -1,0 +1,2 @@
+PyQt6>=6.5
+python-osc>=1.8
